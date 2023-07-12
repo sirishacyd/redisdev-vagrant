@@ -6,7 +6,7 @@ This repository provides a Vagrant configuration to create a development environ
 
 - [Vagrant](https://www.vagrantup.com/downloads)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- Clone of Redis repository on your local machine
+- Clone of [Redis](https://github.com/redis/redis) repository on your local machine
 
 ## Setup
 
