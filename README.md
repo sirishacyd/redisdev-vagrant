@@ -19,8 +19,8 @@ This repository provides a Vagrant configuration to create a development environ
 2. **Navigate to the cloned repository**:
 
     ```
-    cd redisdev
-    ```-vagrant
+    cd redisdev-vagrant
+    ```
 
 3. **Configure Redis Source Path**:
 
