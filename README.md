@@ -1,4 +1,4 @@
-# Vagrant Redis Development Environment
+# Build your Dev Environment
 
 This repository provides a Vagrant configuration to create a development environment for Redis.
 
